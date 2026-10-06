@@ -1,0 +1,12 @@
+{"question": "What drove the increase in net interest income?", "expected_doc": "fincorp_10k_2024"}
+{"question": "What is the CET1 capital ratio?", "expected_doc": "fincorp_10k_2024"}
+{"question": "What does Regulation Best Interest require of broker-dealers?", "expected_doc": "compliance_memo_trading"}
+{"question": "Within how many seconds must equity trades be reported?", "expected_doc": "compliance_memo_trading"}
+{"question": "What is the Federal Reserve's stance on interest rates?", "expected_doc": "fed_policy_notes"}
+{"question": "How did machine learning improve demand forecasting?", "expected_doc": "northwind_retail_fy"}
+{"question": "What was Meridian's transaction volume growth?", "expected_doc": "meridian_earnings_q3"}
+{"question": "What did the RAG pilot achieve for claims document review?", "expected_doc": "harbor_insurance_brief"}
+{"question": "What is the reinsurance retention amount?", "expected_doc": "harbor_insurance_brief"}
+{"question": "What drove wealth management fee growth?", "expected_doc": "fincorp_10k_2024"}
+{"question": "What is Meridian's EBITDA margin?", "expected_doc": "meridian_earnings_q3"}
+{"question": "What share of revenue is digital sales?", "expected_doc": "northwind_retail_fy"}
