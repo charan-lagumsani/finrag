@@ -1,0 +1,16 @@
+SAMPLE DOCUMENT — Harbor Insurance Risk Committee Brief (synthetic data for demo purposes)
+
+The risk committee reviewed catastrophe exposure ahead of hurricane season.
+Modeled aggregate exposure stands at $2.4 billion with reinsurance covering
+losses above a $400 million retention. The committee approved purchasing an
+additional $300 million of aggregate excess-of-loss cover.
+
+Investment portfolio duration was shortened to 3.8 years as the committee
+positioned for rate volatility. Net investment income for the quarter was $210
+million, up 7% on higher reinvestment rates.
+
+On the technology front, the committee was briefed on the claims document
+intelligence pilot: a retrieval-augmented generation system over policy
+documents and adjuster notes. Early results show a 40% reduction in document
+review time per claim with retrieval accuracy of 91% measured against adjuster
+labels.

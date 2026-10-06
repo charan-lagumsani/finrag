@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+faiss-cpu>=1.8
+scikit-learn>=1.4
+numpy>=1.26
+langchain-text-splitters>=0.2
+# Optional: dense transformer embeddings (large download, needs torch)
+# sentence-transformers>=2.7

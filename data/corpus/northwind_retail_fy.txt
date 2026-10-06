@@ -1,0 +1,14 @@
+SAMPLE DOCUMENT — Northwind Retail Investor Presentation Excerpt (synthetic data for demo purposes)
+
+Northwind Retail delivered comparable sales growth of 4.6% in the fiscal year,
+with digital sales up 18% and now representing 31% of total revenue. Gross
+margin expanded 90 basis points to 38.2% on improved full-price sell-through
+and supply chain efficiencies.
+
+Inventory ended the year down 6% despite sales growth, reflecting the new
+demand forecasting models built on gradient boosting and time-series
+ensembles. Forecast accuracy improved to 89%, cutting stockouts by 22%.
+
+The company opened 14 net new stores and remodeled 32 locations. Capital
+expenditure was $420 million. The board authorized a 5% dividend increase, the
+ninth consecutive annual raise.

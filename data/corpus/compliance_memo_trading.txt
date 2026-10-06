@@ -1,0 +1,18 @@
+SAMPLE DOCUMENT — Compliance Memo: Trade Reporting Obligations (synthetic data for demo purposes)
+
+Under Regulation NMS and FINRA Rule 4511, member firms must maintain books and
+records that accurately reflect all transactions. Trade reports must be
+submitted to the appropriate Trade Reporting Facility within 10 seconds of
+execution for most equity transactions.
+
+Regulation Best Interest (Reg BI) requires broker-dealers to act in the best
+interest of retail customers when making a recommendation. Firms must
+establish, maintain, and enforce written policies and procedures reasonably
+designed to achieve compliance with Reg BI, including the Disclosure,
+Care, Conflict of Interest, and Compliance obligations.
+
+Failure to supervise automated trading systems has resulted in enforcement
+actions where firms lacked pre-trade risk controls. Examiners increasingly
+request documentation of model validation for AI-driven surveillance tools,
+including evidence of hallucination testing for generative AI summaries used
+in suspicious activity reviews.

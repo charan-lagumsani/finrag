@@ -1,0 +1,23 @@
+SAMPLE DOCUMENT — FinCorp Bancshares 2024 Annual Summary (synthetic data for demo purposes)
+
+Net interest income grew 14.2% year-over-year to $4.8 billion, driven by a 38
+basis point expansion in net interest margin. Deposit costs repriced slower than
+the loan book as the Federal Reserve held rates steady through the second half
+of the year. Average loans outstanding increased 6.1% to $212 billion, led by
+commercial real estate and middle-market commercial lending.
+
+Non-interest income rose 8.4% to $2.1 billion. Wealth management fees reached a
+record $940 million, up 11% on higher assets under management. Trading revenue
+was flat at $610 million as client activity normalized after a volatile prior
+year.
+
+The provision for credit losses was $780 million, up from $620 million in the
+prior year, reflecting portfolio growth and a modest deterioration in office
+commercial real estate. Net charge-offs were 0.42% of average loans. The CET1
+capital ratio ended the year at 11.2%, comfortably above the 9.5% regulatory
+minimum.
+
+Operating expenses increased 5.9% to $3.9 billion, driven by technology
+investment in the bank's generative AI program for document processing and
+regulatory reporting automation. Management guided for 2025 efficiency ratio
+below 56%.

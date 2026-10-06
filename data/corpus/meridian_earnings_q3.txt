@@ -1,0 +1,15 @@
+SAMPLE DOCUMENT — Meridian Payments Q3 Earnings Call Notes (synthetic data for demo purposes)
+
+Meridian Payments reported third-quarter revenue of $1.2 billion, up 9% year
+over year. Transaction volume grew 12% to $84 billion, with cross-border volume
+the standout at plus 21%. The take rate compressed 4 basis points to 1.42% as
+large enterprise merchants renegotiated volume tiers.
+
+Adjusted EBITDA margin expanded to 34% from 31% a year ago. Management
+attributed the leverage to automation of customer onboarding with machine
+learning document verification, which cut manual review queues by 55%.
+
+Guidance for the full year was raised: revenue growth of 8 to 10% and an
+EBITDA margin of approximately 33%. The company announced a $500 million share
+repurchase authorization. Credit performance remained stable with net
+transaction losses at 0.11% of volume.

@@ -1,0 +1,17 @@
+SAMPLE DOCUMENT — Federal Reserve Policy Statement Notes (synthetic data for demo purposes)
+
+The Federal Open Market Committee held the target range for the federal funds
+rate steady, citing continued progress on inflation toward the 2% objective
+alongside a labor market that has moved into better balance. Officials noted
+that upside risks to inflation have diminished while downside risks to
+employment have risen.
+
+The statement reiterated that the Committee will consider the cumulative
+tightening of monetary policy, the lags with which policy affects economic
+activity and inflation, and economic and financial developments when
+determining any adjustments to the stance of policy.
+
+Bank supervisors separately reminded institutions that interest rate risk
+management remains a supervisory priority. Banks were encouraged to maintain
+robust asset-liability models and to stress test net interest income under
+instantaneous rate shocks of plus and minus 200 basis points.
